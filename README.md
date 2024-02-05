@@ -41,6 +41,11 @@ MYSQLDB_DATABASE=wefit
 DATABASE_URL="mysql://USER:PASSWORD@HOST:PORT/DATABASE"
 ```
 <br/><br/>
+> Para iniciar o banco em container docker:
+```
+docker-compose up -D
+```
+<br/><br/>
 > Para criar as tabelas e dados de seu banco de dados rode os seguintes comandos:
 ```
 npm install
