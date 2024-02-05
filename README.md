@@ -1,6 +1,7 @@
 <p align="center" backgroud="#000">
     <a href=" target="_blank"><img src="https://e3ba6e8732e83984.cdn.gocache.net/uploads/image/file/869055/large_bf54d5f5c6b18a79823de602a5528298.png" width="200" alt="Laravel Logo"></a>
-    <h3 align="center">Impulsionamos os seus negócios, gerenciando a sua energia</h3>
+    <h3 align="center">Velocidade e precisão em
+produtos e serviços digitais</h3>
 </p>
 
 <p align="center">
